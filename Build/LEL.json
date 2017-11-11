@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "LEL.data.unityweb",
+"asmCodeUrl": "LEL.asm.code.unityweb",
+"asmMemoryUrl": "LEL.asm.memory.unityweb",
+"asmFrameworkUrl": "LEL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
